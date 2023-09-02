@@ -1,2 +1,2 @@
-# Encuentro 03-Computación-Gráfica
-## Ejemplos:1
+# Encuentro 03 y 04 - Computación-Gráfica / Transformaciones
+## Ejemplos
